@@ -1,0 +1,10 @@
+C:\Users\alex_\source\repos\XsiO\bin\Debug\XsiO.exe.config
+C:\Users\alex_\source\repos\XsiO\bin\Debug\XsiO.exe
+C:\Users\alex_\source\repos\XsiO\bin\Debug\XsiO.pdb
+C:\Users\alex_\source\repos\XsiO\obj\Debug\XsiO.csproj.AssemblyReference.cache
+C:\Users\alex_\source\repos\XsiO\obj\Debug\XsiO.Form1.resources
+C:\Users\alex_\source\repos\XsiO\obj\Debug\XsiO.Properties.Resources.resources
+C:\Users\alex_\source\repos\XsiO\obj\Debug\XsiO.csproj.GenerateResource.cache
+C:\Users\alex_\source\repos\XsiO\obj\Debug\XsiO.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\XsiO\obj\Debug\XsiO.exe
+C:\Users\alex_\source\repos\XsiO\obj\Debug\XsiO.pdb
